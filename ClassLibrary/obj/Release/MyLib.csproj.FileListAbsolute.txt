@@ -1,0 +1,6 @@
+C:\Users\чОрт\Desktop\Лабы и проекты\РВИАПООН\МДК 02.01 2 семестр\AvtoMagazin\MyLib\bin\Release\MyLib.xml
+C:\Users\чОрт\Desktop\Лабы и проекты\РВИАПООН\МДК 02.01 2 семестр\AvtoMagazin\MyLib\bin\Release\MyLib.dll
+C:\Users\чОрт\Desktop\Лабы и проекты\РВИАПООН\МДК 02.01 2 семестр\AvtoMagazin\MyLib\bin\Release\MyLib.pdb
+C:\Users\чОрт\Desktop\Лабы и проекты\РВИАПООН\МДК 02.01 2 семестр\AvtoMagazin\MyLib\obj\Release\MyLib.dll
+C:\Users\чОрт\Desktop\Лабы и проекты\РВИАПООН\МДК 02.01 2 семестр\AvtoMagazin\MyLib\obj\Release\MyLib.pdb
+C:\Users\чОрт\Desktop\Лабы и проекты\РВИАПООН\МДК 02.01 2 семестр\AvtoMagazin\MyLib\obj\Release\MyLib.csprojAssemblyReference.cache

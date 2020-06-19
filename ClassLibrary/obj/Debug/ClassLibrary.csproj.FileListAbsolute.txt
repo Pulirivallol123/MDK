@@ -1,0 +1,5 @@
+C:\Users\Admin Maks\source\repos\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin Maks\source\repos\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Admin Maks\source\repos\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Admin Maks\source\repos\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Admin Maks\source\repos\ClassLibrary\obj\Debug\ClassLibrary.pdb
