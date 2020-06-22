@@ -28,10 +28,7 @@ namespace MvideoWindowsForms
             //CbFill();
         }
 
-        private void DgFill()
-        {
-
-            string sqlstr = "SELECT [ID_Klient] , " +
+        public string sqlstr = "SELECT [ID_Klient] , " +
                 "[First_Name_Klient] as Фамилия, " +
                 "[Name_Klient] as Имя, " +
                 "[Middle_Name_Klient] as Отчество, " +
@@ -39,6 +36,17 @@ namespace MvideoWindowsForms
                 "[Klient_Password] as Пароль, " +
                 "[Klient_Logical_Delete] as Удаление " +
                 "FROM [dbo].[Klient]";
+        private void DgFill()
+        {
+
+            //string sqlstr = "SELECT [ID_Klient] , " +
+            //    "[First_Name_Klient] as Фамилия, " +
+            //    "[Name_Klient] as Имя, " +
+            //    "[Middle_Name_Klient] as Отчество, " +
+            //    "[Klient_Login] as Логин, " +
+            //    "[Klient_Password] as Пароль, " +
+            //    "[Klient_Logical_Delete] as Удаление " +
+            //    "FROM [dbo].[Klient]";
             var table_class = new Table_Class(sqlstr);
             dataGridView1.DataSource = table_class.table.DefaultView;
             dataGridView1.Columns[0].Visible = false;

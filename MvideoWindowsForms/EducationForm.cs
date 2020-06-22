@@ -27,13 +27,18 @@ namespace MvideoWindowsForms
             //CbFill();
         }
 
-        private void DgFill()
-        {
-
-            string sqlstr = "SELECT " +
+        public string sqlstr = "SELECT " +
             "ID_Education, " +
             "Type_of_Education as Образование " +
             "FROM Education ";
+
+        private void DgFill()
+        {
+
+            //string sqlstr = "SELECT " +
+            //"ID_Education, " +
+            //"Type_of_Education as Образование " +
+            //"FROM Education ";
             var table_class = new Table_Class(sqlstr);
             dataGridView1.DataSource = table_class.table.DefaultView;
             dataGridView1.Columns[0].Visible = false;
