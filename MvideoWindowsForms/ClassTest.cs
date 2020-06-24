@@ -6,7 +6,7 @@ namespace MvideoWindowsForms
 {
     [TestFixture]
 
-    class MockService : Configuration_class
+    class MvideoShop : Configuration_class
     {
         [Test]
         public void Test()
